@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dagem</h1>
+<h1 align="center">Hi , I'm Dagem</h1>
 <h3 align="center">A passionate Computer engineer and a fullstack web and mobile app developer based in Ethiopia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dag7m" alt="dag7m" /></a> </p>
@@ -18,12 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dag7m&show_icons=true&locale=en&layout=compact" alt="dag7m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dag7m&" alt="dag7m" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dag7m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dag7m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dag7m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dag7m&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
