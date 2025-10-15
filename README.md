@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dagem</h1>
-<h3 align="center">A passionate Computer engineer and a fullstack web and mobile app developer based in Ethiopia.</h3>
+<h3 align="center">A passionate Computer engineer and a fullstack web and mobile app developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dag7m" alt="dag7m" /></a> </p>
 
