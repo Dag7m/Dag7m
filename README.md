@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dag7m" alt="dag7m" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and AI.**
+- 🌱 I’m currently learning **Machine Learning and Data Analytics.**
 
 - 📫 How to reach me **dagemgirum@gmail.com**
 
